@@ -1,4 +1,4 @@
-name: DeepSpeech-Keras
+name: mdspk
 channels:
   - conda-forge
   - defaults
