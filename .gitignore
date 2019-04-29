@@ -1,0 +1,12 @@
+
+*.pyc
+*.log
+.idea
+.ipynb_checkpoints
+
+# Unversioned files
+/bin
+
+# Do not include models
+*.bin
+/out
